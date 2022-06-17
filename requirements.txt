@@ -16,3 +16,5 @@ sunpy
 astropy
 pydeck
 scipy
+xlsxwriter
+pyxlsb
