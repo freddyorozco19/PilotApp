@@ -18,3 +18,4 @@ pydeck
 scipy
 xlsxwriter
 pyxlsb
+openpyxl
